@@ -4,7 +4,7 @@
 
 <img align="right" height="250px" alt="GIF" src="https://cdn.dribbble.com/users/3020080/screenshots/15085975/media/25530f071f257c7c94ee33d75441fa62.png?compress=1&resize=800x600" padding="5px" />
 
-## I'm a B.Tech UnderGrad and  an Aspiring Developer!!
+## I'm a B.Tech CSE UnderGrad and  an Aspiring Developer!!
 
 </br>
 
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Github
 - 🥅 2021 Goals: Explore a wide range of opportunities
 - 👯 I’m looking to collaborate with other developers.
-- ⚡ Fun fact: I love to listen to songs 🎧
+- ⚡ Fun fact: I love listening to songs 🎧
 
 
 </br>
