@@ -2,7 +2,7 @@
 
 
 
-<img align="right" height="450px" alt="GIF" src="https://www.linkpicture.com/q/ef164cd139cf9a44b1c6a1a2e9f89c48.jpeg" padding="5px" />
+<img align="right" height="450px" alt="GIF" src="https://www.linkpicture.com/q/WhatsApp_Image_2021-06-19_at_2.29.50_PM-removebg-preview.png" padding="5px" />
 
 ## I'm a B.Tech CSE UnderGrad and  an Aspiring Developer!!
 
