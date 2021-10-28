@@ -4,11 +4,11 @@
 
 <img align="right" height="450px" alt="GIF" src="https://www.linkpicture.com/q/WhatsApp_Image_2021-06-19_at_2.29.50_PM-removebg-preview.png" padding="5px" />
 
-## I'm a B.Tech CSE UnderGrad and  an Aspiring Developer!!
+## I'm a Robotics enthusiast and an Aspiring Developer!!
 
 </br>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ROS and PyTorch
 - 👯 I’m looking to collaborate on Github
 - 🥅 2021 Goals: Explore a wide range of opportunities
 - 👯 I’m looking to collaborate with other developers.
