@@ -8,9 +8,9 @@
 
 </br>
 
-- 🌱 I’m currently learning ROS and PyTorch
+- 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Github
-- 🥅 2021 Goals: Explore a wide range of opportunities
+- 🥅 2022 Goals: Explore a wide range of opportunities
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ About Me: I  have a fascination for robotics and I love listening to songs 🎧
 
